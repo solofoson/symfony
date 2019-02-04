@@ -31,7 +31,7 @@ security:
             logout:
                 path: /logout
                 target: /login
-            anonymous: false
+            anonymous: true
 #            access_denied_handler: app.AccesRefuseListener
 
     access_control:
