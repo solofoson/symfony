@@ -1,0 +1,15 @@
+3cdd8d,::1,GET,http://localhost/Symfony2.8/web/app_dev.php/,1549269717,,302
+5fbb52,::1,GET,http://localhost/Symfony2.8/web/app_dev.php/login,1549269718,,200
+d742bf,::1,GET,http://localhost/Symfony2.8/web/app_dev.php/_wdt/5fbb52,1549269719,,302
+6bf0cc,::1,GET,http://localhost/Symfony2.8/web/app_dev.php/login,1549269720,,200
+f2e734,::1,GET,http://localhost/Symfony2.8/web/app_dev.php/,1549269755,,302
+56b1a7,::1,GET,http://localhost/Symfony2.8/web/app_dev.php/login,1549269756,,200
+36431d,::1,GET,http://localhost/Symfony2.8/web/app_dev.php/_wdt/56b1a7,1549269757,,302
+f5a471,::1,GET,http://localhost/Symfony2.8/web/app_dev.php/login,1549269758,,200
+37a06c,::1,POST,http://localhost/Symfony2.8/web/app_dev.php/login_check,1549269763,,302
+030da7,::1,GET,http://localhost/Symfony2.8/web/app_dev.php/login,1549269764,,200
+b20ddc,::1,GET,http://localhost/Symfony2.8/web/app_dev.php/_wdt/030da7,1549269765,,302
+bea4c3,::1,GET,http://localhost/Symfony2.8/web/app_dev.php/login,1549269766,,200
+3b8012,::1,GET,http://localhost/Symfony2.8/web/app_dev.php/login,1549269829,,200
+7adf0e,::1,GET,http://localhost/Symfony2.8/web/app_dev.php/_wdt/3b8012,1549269830,,302
+97eade,::1,GET,http://localhost/Symfony2.8/web/app_dev.php/login,1549269831,,200
